@@ -3,7 +3,7 @@ export default function ContactEN() {
     <section className="p-10 max-w-3xl mx-auto text-center">
       <h1 className="text-3xl font-bold mb-4 text-blue-600">Contact</h1>
       <p className="text-gray-700 mb-6">
-        If you'd like to collaborate or have a Salesforce / AI / DevOps project, get in touch.
+        If you&apos;d like to collaborate or have a Salesforce / AI / DevOps project, get in touch.
       </p>
 
       <div className="space-y-2">

@@ -11,7 +11,7 @@ export default function HomeEN() {
         transition={{ duration: 0.6 }}
         className="text-4xl font-bold text-blue-600"
       >
-        Hi — I'm Santiago Carrillo, Salesforce Developer/Administrator & AI Developer
+        Hi — I&apos;m Santiago Carrillo, Salesforce Developer/Administrator & AI Developer
       </motion.h1>
 
       <p className="mt-4 text-gray-600 max-w-xl">
